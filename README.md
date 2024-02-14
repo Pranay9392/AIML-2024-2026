@@ -11,7 +11,7 @@
 
 ## Lab 05: [Title Here]
 - [LAB 05](https://github.com/Pranay9392/AIML-2024-2026/blob/main/AIML_LAB_05.ipynb)
-- 
+
 ## Lab 06: [Title Here]
 - [Link to Lab 06 Notebook]
 
