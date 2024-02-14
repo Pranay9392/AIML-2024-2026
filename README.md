@@ -10,7 +10,7 @@
 - [Link to Lab 04 Notebook]
 
 ## Lab 05: [Title Here]
-- [Link to Lab 05 Notebook]
+- [https://github.com/Pranay9392/AIML-2024-2026/blob/main/AIML_LAB_05.ipynb]
 
 ## Lab 06: [Title Here]
 - [Link to Lab 06 Notebook]
