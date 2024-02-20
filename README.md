@@ -1,6 +1,6 @@
 # AIML-2024-2026
 
-## Lab 01(https://github.com/Pranay9392/AIML-2024-2026/blob/main/AIML_A1.ipynb): Introduction to Python Packages
+-[Lab 01](https://github.com/Pranay9392/AIML-2024-2026/blob/main/AIML_A1.ipynb): Introduction to Python Packages
 
 ## Lab 02: [Title Here]
 - [Link to Lab 01 Notebook](https://github.com/Pranay9392/AIML-2024-2026/blob/main/ai_ml_class_jan_31_tic_toe.ipynb)
