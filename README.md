@@ -2,8 +2,8 @@
 ## Lab 01: 
 - [Introduction to python packages](https://github.com/Pranay9392/AIML-2024-2026/blob/main/AIML_A1.ipynb)
 
-## Lab 02: [Title Here]
-- [Link to Lab 01 Notebook](https://github.com/Pranay9392/AIML-2024-2026/blob/main/ai_ml_class_jan_31_tic_toe.ipynb)
+## Lab 02: 
+- [Implementation of Linear regression model using US housing Dataset](https://github.com/Pranay9392/AIML-2024-2026/blob/main/ai_ml_class_jan_31_tic_toe.ipynb)
 
 
 ## Lab 04: [Title Here]
