@@ -10,7 +10,7 @@ Algorithm](https://github.com/Pranay9392/AIML-2024-2026/commit/088892441acb2eade
 ## Lab 04: 
 - [Implementation of Linear regression model using US housing Dataset](https://github.com/Pranay9392/AIML-2024-2026/blob/main/AIML_A4.ipynb)
 ## Lab 05: 
-- [Implementation of Logistic Regression Model Using Titanic Ship Dataset]() 
+- [Implementation of Logistic Regression Model Using Titanic Ship Dataset](https://github.com/Pranay9392/AIML-2024-2026/blob/main/AIML_A5.ipynb) 
 ## Lab 06: 
 - [Implementation of  K Nearest Neighbor Classification using Classi-
 fied Manufacturing Dataset]() 
