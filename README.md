@@ -13,7 +13,7 @@ Algorithm](https://github.com/Pranay9392/AIML-2024-2026/commit/088892441acb2eade
 - [Implementation of Logistic Regression Model Using Titanic Ship Dataset](https://github.com/Pranay9392/AIML-2024-2026/blob/main/AIML_A5.ipynb) 
 ## Lab 06: 
 - [Implementation of  K Nearest Neighbor Classification using Classi-
-fied Manufacturing Dataset]() 
+fied Manufacturing Dataset](https://github.com/Pranay9392/AIML-2024-2026/blob/main/AIML_A6.ipynb) 
 ## Lab 07: 
 - [Implement Support Vector Machine Classification using Breast Can-
 cer Dataset]() 
