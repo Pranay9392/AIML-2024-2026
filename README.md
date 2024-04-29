@@ -15,12 +15,11 @@ Algorithm](https://github.com/Pranay9392/AIML-2024-2026/commit/088892441acb2eade
 - [Implementation of  K Nearest Neighbor Classification using Classi-
 fied Manufacturing Dataset](https://github.com/Pranay9392/AIML-2024-2026/blob/main/AIML_A6.ipynb) 
 ## Lab 07: 
-- [Implement Support Vector Machine Classification using Breast Can-
-cer Dataset](https://github.com/Pranay9392/AIML-2024-2026/blob/main/AIML_A7.ipynb)
+- [Implement Support Vector Machine Classification using Breast Can-cer Dataset](https://github.com/Pranay9392/AIML-2024-2026/blob/main/AIML_A7.ipynb)
 ## Lab 08: 
 - [Implementing Decision Tree on car dataset](https://github.com/Pranay9392/AIML-2024-2026/blob/main/AIML_A8.ipynb)
 ##Lab 09: 
-- [Implement Random Forest Ensemble Model using Lending Data](https://github.com/Pranay9392/AIML-2024-2026/blob/main/AIML_A8.ipynb)
+- [Implement Random Forest Ensemble Model using Lending Data](https://github.com/Pranay9392/AIML-2024-2026/blob/main/AIML__A9.ipynb)
 ## Lab 10: 
 - [Implement K-means clustering using synthetic dataset](https://github.com/Pranay9392/AIML-2024-2026/blob/main/AIML_A_10.ipynb)
 
