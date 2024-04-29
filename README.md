@@ -20,7 +20,7 @@ cer Dataset](https://github.com/Pranay9392/AIML-2024-2026/blob/main/AIML_A7.ipyn
 ## Lab 08: 
 - [Implementing Decision Tree on car dataset](https://github.com/Pranay9392/AIML-2024-2026/blob/main/AIML_A8.ipynb)
 ## Lab 08: 
-- [Implement K-means clustering using synthetic dataset](https://github.com/Pranay9392/AIML-2024-2026/blob/main/AIML_A8.ipynb)
+- [Implement K-means clustering using synthetic dataset](https://github.com/Pranay9392/AIML-2024-2026/blob/main/AIML_A_10.ipynb)
 
 
 
