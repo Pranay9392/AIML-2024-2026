@@ -18,6 +18,9 @@ fied Manufacturing Dataset](https://github.com/Pranay9392/AIML-2024-2026/blob/ma
 - [Implement Support Vector Machine Classification using Breast Can-
 cer Dataset](https://github.com/Pranay9392/AIML-2024-2026/blob/main/AIML_A7.ipynb)
 ## Lab 08: 
-- [Implementing Decision Tree on car dataset](https://github.com/Pranay9392/AIML-2024-2026/blob/main/AIML_A8.ipynb) 
+- [Implementing Decision Tree on car dataset](https://github.com/Pranay9392/AIML-2024-2026/blob/main/AIML_A8.ipynb)
+## Lab 08: 
+- [Implement K-means clustering using synthetic dataset](https://github.com/Pranay9392/AIML-2024-2026/blob/main/AIML_A8.ipynb)
+
 
 
